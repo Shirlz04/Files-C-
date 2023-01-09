@@ -1,0 +1,6 @@
+﻿  hw2.cpp
+  hw2_functions.cpp
+C:\Users\oshan\Desktop\CS410\hw2\hw2\hw2_functions.cpp(48,8): warning C4101: 'tempName': unreferenced local variable
+C:\Users\oshan\Desktop\CS410\hw2\hw2\hw2_functions.cpp(136,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  hw2.vcxproj -> C:\Users\oshan\Desktop\CS410\hw2\x64\Debug\hw2.exe
